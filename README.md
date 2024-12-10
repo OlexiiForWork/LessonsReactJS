@@ -11,6 +11,6 @@
 -  https://www.youtube.com/watch?v=w4oNcyFhqzw&list=PL_Ff6C61NLImA9pRrkFXp8yaWz1_RtFdQ;
 -  https://www.youtube.com/watch?v=tfn-59fbNMQ&list=PLDyJYA6aTY1lpbNh66kFpF62QpJyzliT2;
 
-
-
-
+##Офицыальнные сайты
+-  [GitHub] https://github.com/facebook/react
+-  [React] https://react.dev/
