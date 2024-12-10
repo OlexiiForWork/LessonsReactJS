@@ -14,3 +14,26 @@
 ##Офицыальнные сайты
 -  [GitHub] https://github.com/facebook/react
 -  [React] https://react.dev/
+
+
+
+\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
+
+It is expected that developers will host a local version of a Postgres database for development. Development against the database in DevQA can be done by using the LocalDevqa configuration mentioned above, however it is usually not neccessary. Migrations should always be tested locally before deploying. _Migrations should **never** be tested against DevQA._
+
+The postgres instance is now part of the OPF shared development stack for RefArch applications. You will need to clone the [ordermanagement.shared.refarch-dev-stack](https://github.com/EBSCOIS/ordermanagement.shared.refarch-dev-stack) repository and execute the `setup-stack.ps1` script to install the needed postgres container.
+
+Once the shared development stack is running use the following script located in the src directory to setup the database:
+
+```
+powershell .\reset-db.ps1
+```
+
+> Once this is done you can reset the database back to the default state by re-running the reset-db script.
+
+This database will be running in a postgres container with the following values:
+
+-   Server: `localhost:12695`
+-   Username: `app`
+-   Password: `verysecure`
+-   Database: orders
