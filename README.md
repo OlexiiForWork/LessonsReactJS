@@ -2,7 +2,8 @@
 Мои уроки по React JS
 
 ##Сылка на неплохую теорию (Metanit)
--  https://metanit.com/web/react/
+-  https://metanit.com/web/react/;
+  
 ##Сылка Обучающие видео в YouTube
 -  https://www.youtube.com/watch?v=lzICzoqlJgc&list=PL9mlH9etz6DyxCwks1tdVzlYhSxrsrjJ4;
 -  https://www.youtube.com/watch?v=xJZa2_aldDs&list=RDQMVAcV6YX3oNs&start_radio=1;
