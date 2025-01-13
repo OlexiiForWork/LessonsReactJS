@@ -19,7 +19,7 @@
 ## Офицыальнные сайты
 -  [GitHub] https://github.com/facebook/react
 -  [React] https://react.dev/
--  [Chacra библиотека React]https://www.chakra-ui.com/
+-  [Chacra библиотека React] https://www.chakra-ui.com/
 
 
 
