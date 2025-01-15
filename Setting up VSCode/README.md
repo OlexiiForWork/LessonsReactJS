@@ -44,10 +44,10 @@ GitLens
 ```
  HTML / CSS
 ```
-
 ```
  Toggle Quotes
 ```
+- Добавление иконок
 ```
  VSCode Icons
 ```
