@@ -37,3 +37,22 @@ ESLint
 ```
 GitLens
 ```
+- Работа с CSS
+```
+ Tailwind CSS Intellisense
+```
+```
+ HTML / CSS
+```
+
+```
+ Toggle Quotes
+```
+```
+ VSCode Icons
+```
+- подобие Postman 
+```
+ RapidAPI
+```
+
