@@ -20,6 +20,17 @@ npm -v
 ```
 npm install -g typescript
 ```
+
+## Создания проэкта ReactJS
+> Команда создания проэкта ReactJS `npx create-react-app` имя проэкта(папка с проэктом) `my-app `
+- Сылка для скачивания Node.js : https://nodejs.org/en/download;
+```
+npx create-react-app my-app 
+```
+- Создания проэкта ReactJS с использованием typescript
+```
+npx create-react-app my-app –template typescript
+```
 ## Visual Studio Code расшырения
 - Подсветка синтаксиса
 ```
