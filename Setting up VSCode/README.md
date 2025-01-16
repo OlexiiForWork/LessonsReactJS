@@ -26,6 +26,7 @@ npm install --legacy-peer-deps
 ## Создания проэкта ReactJS
 > Команда создания проэкта ReactJS `npx create-react-app` имя проэкта(папка с проэктом) `my-app `
 - Ссылка для скачивания Node.js : https://nodejs.org/en/download;
+- Файл с боле подробной инструкцией: ReactJS Installation Instructions
 ```
 npx create-react-app my-app 
 ```
