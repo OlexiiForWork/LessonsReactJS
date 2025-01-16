@@ -7,6 +7,8 @@
 - Инструуция по подготовке к работе:https://pnn.com.ua/blog/detail/how-to-install-node-js-and-npm-on-windows-and-mac
 ### React JS
  > Создание приложения React JS имя проэкта(директория) `example-react-js`
+ 
+ > [!WARNING]
  > Если возникают ошыбки во время установки зависимостей то предварительно выполните команду `npm config set legacy-peer-deps true`
 ```
  npx create-react-app example-react-js;
