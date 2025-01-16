@@ -4,6 +4,7 @@
 - [Metanit] https://metanit.com/web/react/;
 - [ReactJS] https://react.dev/learn/start-a-new-react-project;
 - [YouTube] React TypeScript ПОЛНЫЙ КУРС 2021. Props, Events, Router, Hooks, Requests.: https://www.youtube.com/watch?v=92qcfeWxtnY
+- Инструуция по подготовке к работе:https://pnn.com.ua/blog/detail/how-to-install-node-js-and-npm-on-windows-and-mac
 ### React JS
  > Создание приложения React JS имя проэкта(директория) `example-react-js`
 ```
