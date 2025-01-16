@@ -29,7 +29,7 @@ npx create-react-app my-app
 ```
 - Создания проэкта ReactJS с использованием typescript
 ```
-npx create-react-app my-app –template typescript
+npx create-react-app my-app --template typescript
 ```
 ## Visual Studio Code расшырения
 - Подсветка синтаксиса
