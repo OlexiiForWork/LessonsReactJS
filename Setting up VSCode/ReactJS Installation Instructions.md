@@ -1,7 +1,8 @@
 Инструкцыя: Создание React JS приложения и первий запуск 
 
 ## Создание React JS. Сперва желательно выполнить шаги по установке Node.js смотрите README.md
--Сылка для скачивания Visual Studio Code : https://code.visualstudio.com/download;
+-[Metanit] https://metanit.com/web/react/;
+-[ReactJS](https://react.dev/learn/start-a-new-react-project);
 ## React JS
 - Сылка для скачивания Node.js : https://nodejs.org/en/download;
 - Команды для проверки 
