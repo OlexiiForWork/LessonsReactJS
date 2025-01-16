@@ -11,7 +11,7 @@
 ```
  > Создание приложения React JS с использованием `TypeScript` имя проэкта(директория) `example-react-js-typescript`
 ```
- npx create-react-app example-react-js-typescript –template typescript
+ npx create-react-app example-react-js-typescript --template typescript
 ```
 ### старт проэкта
 ```
