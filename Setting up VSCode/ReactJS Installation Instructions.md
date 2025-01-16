@@ -5,7 +5,7 @@
 - [ReactJS] https://react.dev/learn/start-a-new-react-project;
 - [YouTube] React TypeScript ПОЛНЫЙ КУРС 2021. Props, Events, Router, Hooks, Requests.: https://www.youtube.com/watch?v=92qcfeWxtnY
 ### React JS
- > Создание приложения React JS имя проэкта(директория) `example-react-js-typescript`
+ > Создание приложения React JS имя проэкта(директория) `example-react-js`
 ```
  npx create-react-app example-react-js;
 ```
