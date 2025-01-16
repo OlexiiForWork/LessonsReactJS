@@ -4,7 +4,8 @@
 -Ссылка для скачивания Visual Studio Code : https://code.visualstudio.com/download;
 ## Install Node.js
 - Ссылка для скачивания Node.js : https://nodejs.org/en/download;
-- Команды для проверки 
+- Команды для проверки
+ > [!WARNING]
  > Если `node --version` отрабатывает а другие нет то это настройки системы запрещающие выполнения скриптов на ПК. На Windows  может исправить:`Set-ExecutionPolicy Unrestricted.`
 
 ```
