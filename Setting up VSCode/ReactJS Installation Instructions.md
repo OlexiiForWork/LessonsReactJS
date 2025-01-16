@@ -25,3 +25,6 @@ npm start
 npm stop
 ```
  > Проверте как запускаеться проэкт. В проэкте может бить ошыбка.
+```
+npm install --legacy-peer-deps
+```
