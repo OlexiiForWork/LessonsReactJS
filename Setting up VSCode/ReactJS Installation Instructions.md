@@ -3,21 +3,24 @@
 ## Создание React JS. Сперва желательно выполнить шаги по установке Node.js смотрите README.md
 - [Metanit] https://metanit.com/web/react/;
 - [ReactJS] https://react.dev/learn/start-a-new-react-project;
-## React JS
-- Сылка для скачивания Node.js : https://nodejs.org/en/download;
-- Команды для проверки 
- > Если `node --version` отрабатывает а другие нет то это настройки системы запрещающие выполнения скриптов на ПК. На Windows  может исправить:`Set-ExecutionPolicy Unrestricted.`
-
+- [YouTube] React TypeScript ПОЛНЫЙ КУРС 2021. Props, Events, Router, Hooks, Requests.: https://www.youtube.com/watch?v=92qcfeWxtnY
+### React JS
+ > Создание приложения React JS имя проэкта(директория) `example-react-js-typescript`
 ```
-node --version
+ npx create-react-app example-react-js;
+```
+ > Создание приложения React JS с использованием `TypeScript` имя проэкта(директория) `example-react-js-typescript`
+```
+ npx create-react-app example-react-js-typescript –template typescript
+```
+### старт проэкта
+```
+cd <папка>
 ```
 ```
-npx -v
+npm start
 ```
-```
-npm -v
-```
- - TS можно установить с помощью команды менеджера пакетов npm, который используется в Node.js:
+### стоп проэкта
 ```
 npm install -g typescript
 ```
