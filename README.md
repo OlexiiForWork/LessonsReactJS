@@ -1,10 +1,10 @@
 # LessonsReactJS
 Мои уроки по React JS
 
-## Сылка на неплохую теорию (Metanit)
+## Ссылка на неплохую теорию (Metanit)
 -  [Metanit] https://metanit.com/web/react/;
   
-## Сылка Обучающие видео в YouTube:
+## Ссылка Обучающие видео в YouTube:
 -  https://www.youtube.com/watch?v=lzICzoqlJgc&list=PL9mlH9etz6DyxCwks1tdVzlYhSxrsrjJ4;
 -  https://www.youtube.com/watch?v=xJZa2_aldDs&list=RDQMVAcV6YX3oNs&start_radio=1;
 -  https://www.youtube.com/watch?v=NDPiaUfsnLA&list=PL6NCtzCz-4pR_xzjVY6wpSTppLdJJmUqF;
@@ -22,17 +22,9 @@
 ## React + .Net Core (YouTube): 
 -  12 VS Code Extensions to INCREASE Productivity 2024:  https://www.youtube.com/watch?v=1UyQaR8pvjk
 
-## Офицыальнные сайты
+## Официальнные сайты
 -  [GitHub] https://github.com/facebook/react
 -  [React] https://react.dev/
 -  [Chacra библиотека React] https://www.chakra-ui.com/
 -  [material библиотека React] https://mui.com/material-ui/
 -  [tailwindui библиотека стилей css] https://tailwindui.com/documentation
-
-
-
-\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/
-
- deploying. _Migrations should **never** be tested against DevQA._
- [ordermanagement.shared.refarch-dev-stack](https://github.com/EBSCOIS/ordermanagement.shared.refarch-dev-stack) 
-
