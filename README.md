@@ -1,7 +1,7 @@
 # LessonsReactJS
 ___Мои уроки по React JS___
 1 Урок. Подготовка: настройка, и установка инструментов
-   - [Установку Visual Studio Code и полезных плагинов]();
+   - [Установку Visual Studio Code и полезных плагинов](https://github.com/OlexiiForWork/LessonsReactJS/blob/main/Setting%20up%20VSCode/README.md#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-%D0%B8-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-%D1%81%D1%80%D0%B5%D0%B4%D1%8B-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8-visual-studio-code-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%D1%81-react-js);
    - [Создание первого приложенния на реакте React JS]()
 
 
