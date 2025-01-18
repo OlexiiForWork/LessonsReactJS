@@ -1,5 +1,8 @@
 # LessonsReactJS
-Мои уроки по React JS
+___Мои уроки по React JS___
+1. Урок. Подготовка: настройка, и установка инструментов
+   - 
+
 
 ## Ссылка на неплохую теорию (Metanit)
 -  [Metanit] https://metanit.com/web/react/;
