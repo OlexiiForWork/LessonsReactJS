@@ -43,3 +43,12 @@ d----- src
 -a---- reportWebVitals.js    --- (Файлы для удаления)
 -a---- setupTests.js         --- (Файлы для удаления)
 ```
+
+С файла `index.js` удалим строки.
+```
+import reportWebVitals from './reportWebVitals';
+```
+```
+reportWebVitals();
+```
+
