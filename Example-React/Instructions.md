@@ -3,6 +3,7 @@
 ## Создание React JS. Сперва желательно выполнить шаги по установке Node.js смотрите README.md урок 1.
 ### React JS
  > Создание приложения React JS имя проэкта(директория) `example-react-js`
+ > Первое приложение [React JS](https://ru.legacy.reactjs.org/docs/create-a-new-react-app.html)
  
  > [!WARNING]
  > Если возникают ошыбки во время установки зависимостей, выполните команду `npm config set legacy-peer-deps true` и пересоздайте проэкт
