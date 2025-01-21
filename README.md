@@ -33,5 +33,6 @@ ___Мои уроки по React JS___
 -  [GitHub] https://github.com/facebook/react
 -  [React] https://react.dev/
 -  [Chacra библиотека React] https://www.chakra-ui.com/
+-  [ant библиотека React] https://ant.design/components/overview/
 -  [material библиотека React] https://mui.com/material-ui/
 -  [tailwindui библиотека стилей css] https://tailwindui.com/documentation
