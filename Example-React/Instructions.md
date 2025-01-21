@@ -22,10 +22,10 @@ npm start
 
 В папке `example-react-js` 3 папки и 3 файла
 ```
-node_modules
-public
-src
-package-lock.json
-package.json
-README.md
+d----- node_modules
+d----- public
+d----- src
+-a----  package-lock.json
+-a----  package.json
+-a----  README.md
 ```
