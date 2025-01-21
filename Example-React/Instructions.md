@@ -57,4 +57,52 @@ reportWebVitals();
  - https://ru.legacy.reactjs.org/docs/refs-and-the-dom.html.
  - https://ru.legacy.reactjs.org/docs/context.html.
 
+```TypeScript
+import React from 'react';
+//import logo from './logo.svg';
+import './App.css';
+
+class App extends React.Component {
+  constructor(props) {
+    super(props);
+
+    this.textInput = null;
+
+    this.setTextInputRef = element => {
+      this.textInput = element;
+    };
+
+    this.focusTextInput = () => {
+      // Устанавливаем фокус на текстовом поле ввода с помощью чистого DOM API
+      if (this.textInput) this.textInput.focus();
+    };
+  }
+
+  componentDidMount() {
+    // устанавливаем фокус на input при монтировании
+    this.focusTextInput();
+  }
+
+  render() {
+    // Используем колбэк в `ref`, чтобы сохранить ссылку на DOM-элемент
+    // поля текстового ввода в поле экземпляра (например, this.textInput).
+    return (
+      <div>
+        <input
+          type="text"
+          ref={this.setTextInputRef}
+        />
+        <input
+          type="button"
+          value="Focus the text input"
+          onClick={this.focusTextInput}
+        />
+      </div>
+    );
+  }
+}
+
+export default App;
+```
+
 React вызовет ref колбэк с DOM-элементом при монтировании компонента, а также вызовет его со значением null при размонтировании. Рефы будут хранить актуальное значение перед вызовом методов componentDidMount или componentDidUpdate.
