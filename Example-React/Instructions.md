@@ -45,7 +45,7 @@ d----- src
 ```
 
 С файла `index.js` удалим строки.
-```
+```TypeScript
 import reportWebVitals from './reportWebVitals';
 ```
 ```TypeScript
