@@ -53,3 +53,8 @@ import reportWebVitals from './reportWebVitals';
 reportWebVitals();
 ```
 
+ Изменим содержымое файла `App.js` изменим содержымое на 
+ - https://ru.legacy.reactjs.org/docs/refs-and-the-dom.html.
+ - https://ru.legacy.reactjs.org/docs/context.html.
+
+React вызовет ref колбэк с DOM-элементом при монтировании компонента, а также вызовет его со значением null при размонтировании. Рефы будут хранить актуальное значение перед вызовом методов componentDidMount или componentDidUpdate.
