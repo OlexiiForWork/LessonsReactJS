@@ -48,7 +48,7 @@ d----- src
 ```
 import reportWebVitals from './reportWebVitals';
 ```
-```
+```TypeScript
 reportWebVitals();
 ```
 
