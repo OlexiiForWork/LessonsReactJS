@@ -3,10 +3,10 @@ ___Мои уроки по React JS___
 
 1. Урок. Подготовка: настройка, и установка инструментов
    - Установку Visual Studio Code и полезных плагинов [./Setting-up-VSCode/NodeJs-VSCode.md](./Setting-up-VSCode/NodeJs-VSCode.md);
-   - Создание первого приложенния на реакте React JS [./Setting-up-VSCode/ReactJS-Instructions.md](./Setting-up-VSCode/ReactJS-Instructions.md)
+   - Создание первого приложенния на реакте React JS [./Setting-up-VSCode/ReactJS-Instructions.md](./Setting-up-VSCode/ReactJS-Instructions.md).
 2. Урок. Изминения шаблоного проэкта на ReactJS.
-   - Создать React JS без TypeScript [./Setting-up-VSCode/ReactJS-Instructions.md](./Setting-up-VSCode/ReactJS-Instructions.md)
-   - Основа  [./Setting-up-VSCode/ReactJS-Instructions.md](./Setting-up-VSCode/ReactJS-Instructions.md)
+   - Создать React JS без TypeScript. Как сделать найдете по ссылке: [./Setting-up-VSCode/ReactJS-Instructions.md](./Setting-up-VSCode/ReactJS-Instructions.md);
+   - Иписанние что нужно изменить в созданом проэкте: [./Example-React/Instructions.md](./Example-React/Instructions.md).
 
 ## Ссылка на неплохую теорию (Metanit)
 -  [Metanit] https://metanit.com/web/react/;
