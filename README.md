@@ -7,6 +7,10 @@ ___Мои уроки по React JS___
 2. Урок. Изминения шаблоного проэкта на ReactJS.
    - Создать React JS без TypeScript. Как сделать найдете по ссылке: [./Setting-up-VSCode/ReactJS-Instructions.md](./Setting-up-VSCode/ReactJS-Instructions.md);
    - Иписанние что нужно изменить в созданом проэкте: [./Example-React/Instructions.md](./Example-React/Instructions.md).
+3. Урок. Создание ReactJS своего DatePicker.
+   - Создать на базе предыдущих уроков по React JS. Свой проэкт который повторит функционал по видео.
+   - Повторите по видео: [Разрабатываем компонент DatePicker без гугла]([./Setting-up-VSCode/ReactJS-Instructions.md](https://www.youtube.com/watch?v=ctdUaaj62D0));
+   - Репозиторий на основе yarn: [Репозиторий GitHub](https://github.com/Ayub-Begimkulov/date-picker-component.git).
 
 ## Ссылка на неплохую теорию (Metanit)
 -  [Metanit] https://metanit.com/web/react/;
